@@ -1,6 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
 body {
-  background-color: whitesmoke !important;
+  background-color: black !important;
 }
 
 h5 {
@@ -36,7 +35,7 @@ h5 {
 
 .rh-card {
   border: none !important;
-  border-radius: .2rem !important;;
+  border-radius: .9rem !important;;
   box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 5px;
 }
 
@@ -48,8 +47,8 @@ h5 {
   font-size: 12px;
   line-height: 1.2;
   font-weight: 600;
-  background-color: rgb(228, 240, 252);
-  color: rgb(94, 165, 238) !important;
+  background-color: #000000;
+  color: #C69749 !important;
   height: 35px;
   border-radius: 3px;
   padding: 0px 12px;
@@ -58,6 +57,22 @@ h5 {
 
 .fa,.fab {
   color: #adaeaf;
+}
+
+.card-body {
+  background-color: #282A3A;
+  color: #FFF;
+  border-radius: 10px;
+}
+
+.elden-ring-logo {
+  position: fixed;
+  left: 2rem;
+  bottom: 2rem;
+
+  > img {
+    width: 15rem !important;
+  }
 }
 
 @media(max-width: 768px) {
