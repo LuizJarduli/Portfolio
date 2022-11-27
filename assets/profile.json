@@ -1,0 +1,35 @@
+{
+  "email": "luizjarduli@gmail.com",
+  "location": "Boituva, São Paulo",
+  "name": "Luiz Miguel",
+  "phone": "",
+  "avatar": "assets/media/imgs/profile-pic.png",
+  "education": [
+    {
+      "title": "Análise e desenvolvimento de sistemas",
+      "meta": "FATEC-SO,  Jan 2020 - Jul 2023"
+    },
+    {
+      "title": "Técnico de informática",
+      "meta": "ETEC - Tatuí,  Jul 2017 - Dez 2018"
+    }
+  ],
+  "about": "Desenvolvedor Front end.\nTrabalhei com manutenção e desenvolvimento de sites, utilizando linguagem de programação PHP e base de dados MySQL para soluções no back-end.\n\nUtilização de frameworks jQuery, Bootstrap, litElements, também utilizando Javascript e TypeScript como linguagem para soluções no front-end. Atualmente trabalhando com Angular 9+",
+  "socials": [
+    {
+      "name": "luizjarduli@gmail.com",
+      "link": "mailto:luizjarduli@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/LuizJarduli",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/luiz-jarduli/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}

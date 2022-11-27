@@ -1,0 +1,38 @@
+{
+  "work": [
+    {
+      "date": "Janeiro 2021 - Presente",
+      "title": "Front End Developer | Helpper Soluções inteligentes",
+      "description": "Trabalhando com desenvolvimento e sustentação de aplicações web utilizando frameworks como Angular e/ou criações próprias internas da empresa. \n\nMetodologias ágeis utilizadas no dia a dia com SCRUM.",
+      "stack": [
+        "Angular",
+        "Node.js",
+        "npm",
+        "Git",
+        "Bitbucket",
+        "Agile",
+        "JavaScript",
+        "TypeScript",
+        "WebComponents",
+        "LitElements",
+        "Storybook",
+        "Vaadin Router"
+      ]
+    },
+    {
+      "date": "Dezembro 2018 - Presente",
+      "title": "Desenvolvedor Freelancer",
+      "description": "Desenvolvendo aplicações web utilizando Javascript, Typescript, HTML, CSS e atualmente framworks como angular",
+      "stack": [
+        "Angular",
+        "NodeJs",
+        "Git",
+        "JavaScript",
+        "TypeScript",
+        "MySQL",
+        "HTML5",
+        "CSS3"
+      ]
+    }
+  ]
+}
